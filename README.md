@@ -7,11 +7,14 @@ This repository documents my Arch installation as well as any other issues I've 
 |Window Manager|i3-gaps|
 |Shell|bash|
 |Terminal|alacritty|
+|Web Browser|google chrome|
 |Display Manager|lightDM|
 |Wallpaper Setter|nitrogen|
 |Compositor|picom|
 |Status Bar|polybar|
-|File Manager|Thunar|
+|File Manager|thunar|
+|Text Editor|nano|
+|Code Editor|vscode|
 |Auto-mount|udiskie|
 |GTK Themer|lxappearance|
 |Apps Launcher|rofi|
