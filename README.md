@@ -19,6 +19,7 @@ This repository documents my Arch installation as well as any other issues I've 
 |GTK Themer|lxappearance|
 |Apps Launcher|rofi|
 |AUR Helper|yay|
+This will most likely change in the future. For now, it is the base set-up for my custom DE.
 
 # Essential Packages
 |Package|Description|
@@ -50,6 +51,9 @@ This repository documents my Arch installation as well as any other issues I've 
 |mtools|DOS-related|
 |dosfstools|DOS-related|
 |neofetch|display info|
+|xdg-utils|official util for managing xdg mime apps|
+|xdg-user-dirs|create user directories|
+Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
 
 # Troubleshooting
 |Issue|Resolution|Source
