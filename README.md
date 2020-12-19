@@ -52,6 +52,8 @@ This will most likely change in the future. For now, it is the base set-up for m
 |mtools|DOS-related|
 |dosfstools|DOS-related|
 |neofetch|display info|
+|lightdm-gtk-greeter-settings|gui settings for lightDM|
+|lxappearance|gtk theme setter|
 |xdg-utils|official util for managing xdg mime apps|
 |xdg-user-dirs|create user directories|
 
