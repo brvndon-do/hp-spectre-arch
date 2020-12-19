@@ -60,7 +60,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
 
 # Troubleshooting
-|Issue|Resolution|Source
+|Issue|Solution|Source
 |--|--|--|
 |Arch did not boot into native resolution|KMS needed to be set for Intel|https://wiki.archlinux.org/index.php/Kernel_mode_setting|
 |LightDM would not start|Install xf86-video-intel package (often not recommended)|https://wiki.archlinux.org/index.php/intel_graphics|
