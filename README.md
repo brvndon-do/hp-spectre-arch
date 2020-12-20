@@ -45,6 +45,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |grub|bootloader|
 |efibootmgr|support with grub|
 |os-prober|support with grub|
+|bluez|bluetooth|
 
 # Extra Packages
 |Package|Description|
@@ -56,6 +57,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |lxappearance|gtk theme setter|
 |xdg-utils|official util for managing xdg mime apps|
 |xdg-user-dirs|create user directories|
+|bluez-utils|bluetooth utility|
 
 Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
 
