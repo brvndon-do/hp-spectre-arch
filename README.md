@@ -10,6 +10,7 @@ This repository documents my Arch installation as well as any other issues I've 
 |Web Browser|google chrome|
 |Display Manager|lightDM|
 |Wallpaper Setter|nitrogen|
+|Notification|dunst|
 |Compositor|picom|
 |Status Bar|polybar|
 |File Manager|thunar|
