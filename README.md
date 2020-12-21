@@ -41,7 +41,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |wpa_supplicant|support with networkmanager|
 |dhcpcd|support with networkmanager|
 |reflector|manage mirror list|
-|pulseaudio|audio mixer|
+|pulseaudio|audio server|
 |cups|printing service|
 |grub|bootloader|
 |efibootmgr|support with grub|
@@ -61,6 +61,8 @@ This will most likely change in the future. For now, it is the base set-up for m
 |xdg-user-dirs|create user directories|
 |bluez-utils|bluetooth utility|
 |udiskie|auto mount USB drives|
+|alsa-mixer|volume control|
+|okular|pdf reader|
 
 Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
 
