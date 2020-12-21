@@ -16,7 +16,7 @@ This repository documents my Arch installation as well as any other issues I've 
 |File Manager|thunar|
 |Text Editor|nano|
 |Code Editor|vscode|
-|Auto-mount|udiskie|
+|Image Viewer|viewnior|
 |GTK Themer|lxappearance|
 |Apps Launcher|rofi|
 |AUR Helper|yay|
@@ -47,6 +47,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |efibootmgr|support with grub|
 |os-prober|support with grub|
 |bluez|bluetooth|
+|udisks2|mounting devices|
 
 # Extra Packages
 |Package|Description|
@@ -59,6 +60,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |xdg-utils|official util for managing xdg mime apps|
 |xdg-user-dirs|create user directories|
 |bluez-utils|bluetooth utility|
+|udiskie|auto mount USB drives|
 
 Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
 
