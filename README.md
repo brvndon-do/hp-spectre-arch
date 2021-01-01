@@ -65,6 +65,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |okular|pdf reader|
 
 Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
+List of other applications can be found here: https://wiki.archlinux.org/index.php/List_of_applications
 
 # Troubleshooting
 |Issue|Solution|Source
