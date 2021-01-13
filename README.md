@@ -74,3 +74,4 @@ List of other applications can be found here: https://wiki.archlinux.org/index.p
 |LightDM would not start|Install xf86-video-intel package (often not recommended)|https://wiki.archlinux.org/index.php/intel_graphics|
 |Touchpad tap to click does not work|Create xorg conf file related to touchpad|https://wiki.archlinux.org/index.php/Libinput|
 |Screen tearing|Create xorg conf file related to screen-tearing|https://wiki.archlinux.org/index.php/intel_graphics#Tearing|
+|Not loading past initiating initramfs|Boot into Arch ISO and mount onto /mnt and /mnt/boot. Reconfigure kernels and mkinitcpio|N/A|
