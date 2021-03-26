@@ -42,6 +42,7 @@ This will most likely change in the future. For now, it is the base set-up for m
 |dhcpcd|support with networkmanager|
 |reflector|manage mirror list|
 |pulseaudio|audio server|
+|pipewire|alternative to pulseaudio|
 |cups|printing service|
 |grub|bootloader|
 |efibootmgr|support with grub|
