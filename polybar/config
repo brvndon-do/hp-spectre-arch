@@ -23,7 +23,6 @@ nord13=#EBCB8B
 nord14=#A3BE8C
 nord15=#B48EAD
 
-
 back=#2e3440
 fore=#d8dee6
 
@@ -57,15 +56,14 @@ font-2 = "Roboto Mono Nerd Font:style=Bold;size=11;2"
 
 modules-left = wm
 modules-center = date
-modules-right = memory temperature pulseaudio xbacklight wlan battery powermenu
+modules-right = memory temperature pulseaudio xbacklight battery
 module-margin = 2
 
-tray-position = none
-tray-maxsize = 0
-tray-detached = true
-tray-padding = 0
-tray-scale = 0.0
-tray-background = #3d3c3b
+tray-position = right
+tray-maxsize = 18
+tray-detached = false
+tray-padding = 2.0
+tray-scale = 1.0
 
 override-redirect = false
 offset-x = 0
