@@ -19,7 +19,7 @@ This repository documents my Arch installation as well as any other issues I've 
 |Image Viewer|viewnior|
 |GTK Themer|lxappearance|
 |Apps Launcher|rofi|
-|AUR Helper|yay|
+|AUR Helper|paru|
 
 This will most likely change in the future. For now, it is the base set-up for my custom DE.
 
