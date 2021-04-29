@@ -23,6 +23,11 @@ This repository documents my Arch installation as well as any other issues I've 
 
 This will most likely change in the future. For now, it is the base set-up for my custom DE.
 
+# Screenshots
+![neofetch](https://user-images.githubusercontent.com/49256014/116492977-ac437080-a86b-11eb-93fa-3a8c34161b1a.jpg)
+![code](https://user-images.githubusercontent.com/49256014/116493043-d7c65b00-a86b-11eb-8188-776acf6e39b7.jpg)
+![google](https://user-images.githubusercontent.com/49256014/116493151-14925200-a86c-11eb-8b23-e6309e34bfcd.jpg)
+
 # Essential Packages
 |Package|Description|
 |--|--|
