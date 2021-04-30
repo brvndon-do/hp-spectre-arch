@@ -27,6 +27,8 @@ This will most likely change in the future. For now, it is the base set-up for m
 ![neofetch](https://user-images.githubusercontent.com/49256014/116492977-ac437080-a86b-11eb-93fa-3a8c34161b1a.jpg)
 ![code](https://user-images.githubusercontent.com/49256014/116493043-d7c65b00-a86b-11eb-8188-776acf6e39b7.jpg)
 ![code_and_browser](https://user-images.githubusercontent.com/49256014/116494402-bf0b7480-a86e-11eb-9564-4b0e3e60d395.jpg)
+![rofi](https://user-images.githubusercontent.com/49256014/116641366-99e43800-a93a-11eb-8c83-46cce0d0fe85.jpg)
+
 
 
 # Essential Packages
