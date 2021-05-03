@@ -31,5 +31,5 @@ This will most likely change in the future. For now, it is the base set-up for m
 # Documentation
 |Name|Link|
 |--|--|
-|Packages|[a relative link](packages.md)|
-|Troubleshooting|[a relative link](trouble-shoot.md)|
+|Packages|[Click here](documentation/packages.md)|
+|Troubleshooting|[Click here](documentation/trouble-shoot.md)|
