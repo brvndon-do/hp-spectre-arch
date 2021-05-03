@@ -28,56 +28,8 @@ This will most likely change in the future. For now, it is the base set-up for m
 ![code](https://user-images.githubusercontent.com/49256014/116493043-d7c65b00-a86b-11eb-8188-776acf6e39b7.jpg)
 ![code_and_browser](https://user-images.githubusercontent.com/49256014/116494402-bf0b7480-a86e-11eb-9564-4b0e3e60d395.jpg)
 
-# Essential Packages
-|Package|Description|
+# Documentation
+|Name|Link|
 |--|--|
-|base|base package|
-|base-devel|base tools for development|
-|linux|the main kernel|
-|linux-firmware|extra tools for kernel|
-|linux-headers|extra tools for kernel|
-|nano|simple text editor|
-|intel-ucode|microcode for Intel|
-|mesa|drivers for Intel (may need xf86-video-intel as well)|
-|git|for AUR and development purposes|
-|networkmanager|internet access|
-|network-manager-applet|internet access applet|
-|dialog|support with networkmanager|
-|wpa_supplicant|support with networkmanager|
-|dhcpcd|support with networkmanager|
-|reflector|manage mirror list|
-|pulseaudio|audio server|
-|pipewire|alternative to pulseaudio|
-|cups|printing service|
-|grub|bootloader|
-|efibootmgr|support with grub|
-|os-prober|support with grub|
-|bluez|bluetooth|
-|udisks2|mounting devices|
-
-# Extra Packages
-|Package|Description|
-|--|--|
-|mtools|DOS-related|
-|dosfstools|DOS-related|
-|neofetch|display info|
-|lightdm-gtk-greeter-settings|gui settings for lightDM|
-|lxappearance|gtk theme setter|
-|xdg-utils|official util for managing xdg mime apps|
-|xdg-user-dirs|create user directories|
-|bluez-utils|bluetooth utility|
-|udiskie|auto mount USB drives|
-|alsa-mixer|volume control|
-|okular|pdf reader|
-
-Not necessarily needed, but nice to have. These are optional and the system can run fine without it.
-List of other applications can be found here: https://wiki.archlinux.org/index.php/List_of_applications
-
-# Troubleshooting
-|Issue|Solution|Source
-|--|--|--|
-|Arch did not boot into native resolution|KMS needed to be set for Intel|https://wiki.archlinux.org/index.php/Kernel_mode_setting|
-|LightDM would not start|Install xf86-video-intel package (often not recommended)|https://wiki.archlinux.org/index.php/intel_graphics|
-|Touchpad tap to click does not work|Create xorg conf file related to touchpad|https://wiki.archlinux.org/index.php/Libinput|
-|Screen tearing|Create xorg conf file related to screen-tearing|https://wiki.archlinux.org/index.php/intel_graphics#Tearing|
-|Not loading past initiating initramfs|Boot into Arch ISO and mount /mnt and /mnt/boot then chroot. Reconfigure kernels and mkinitcpio|N/A|
+|Packages|[a relative link](packages.md)|
+|Troubleshooting|[a relative link](trouble-shoot.md)|
